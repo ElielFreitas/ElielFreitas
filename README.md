@@ -21,3 +21,6 @@
 </div><br/>
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+
+![snake gif](https://github.com/ElielFreitas/ElielFreitas/blob/output/github-contribution-grid-snake.gif)
+
