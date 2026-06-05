@@ -6,8 +6,6 @@
 
 ---
 
-### 🌐 Redes Sociais
-
 <div align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliel_santos777/)
@@ -17,8 +15,6 @@
 </div>
 
 ---
-
-### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElielFreitas&theme=dark" />
@@ -30,8 +26,6 @@
 </div>
 
 ---
-
-### 🚀 Tecnologias
 
 <div align="center" style="display: inline_block">
   
@@ -65,8 +59,6 @@
 🔗 [github.com/ElielFreitas/Libre-se](https://github.com/ElielFreitas/Libre-se)
 
 ---
-
-### 🐍 Contribuições
 
 ![snake gif](https://raw.githubusercontent.com/ElielFreitas/ElielFreitas/output/github-contribution-grid-snake.svg)
 
