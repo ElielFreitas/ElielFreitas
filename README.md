@@ -66,7 +66,7 @@
 
 ### 🐍 Contribuições
 
-![snake gif](https://github.com/ElielFreitas/ElielFreitas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ElielFreitas/ElielFreitas/output/github-contribution-grid-snake.svg)
 
 ---
 
